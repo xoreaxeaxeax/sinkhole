@@ -9,4 +9,4 @@ An x86 design flaw allowing ring -2 privilege escalation.
 (Currently working on the "benign" part)
 
 # Security Advisories
-* Intel @ https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00045
+* Intel @ https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00045&languageid=en-FR
