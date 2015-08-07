@@ -7,3 +7,6 @@ An x86 design flaw allowing ring -2 privilege escalation.
   * (Benign) SMM rootkit sample
 
 (Currently working on the "benign" part)
+
+# Security Advisories
+* Intel @ https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00045
